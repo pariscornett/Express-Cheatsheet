@@ -1,0 +1,25 @@
+{
+  "name": "express-cheatsheet",
+  "version": "1.0.0",
+  "description": "### To use this code, copy and paste, but also follow a few other steps like...",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pariscornett/express-cheatsheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pariscornett/express-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/pariscornett/express-cheatsheet#readme",
+  "dependencies": {
+    "concurrently": "^5.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
